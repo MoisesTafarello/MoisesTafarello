@@ -17,8 +17,8 @@ jobs:
         with:
           github_user_name: MoisesTafarello
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=black
+            dist/github-contribution-grid-snake-dark.svg?palette=black
 
       - name: Push Snake animation to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
