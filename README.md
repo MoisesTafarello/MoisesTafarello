@@ -16,7 +16,7 @@ Atualmente, estou cursando Desenvolvimento de Sistemas no SENAI Conde Alexandre 
 
 **📈Estatísticas do meu GitHub**
 
-![snake gif](https://github.com/MoisesTafarello/MoisesTafarello/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/MoisesTafarello/MoisesTafarello/dist/github-snake.svg)
 
 <div>
   <a href="https://github.com/MoisesTafarello">
